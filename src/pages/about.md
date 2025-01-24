@@ -2,35 +2,33 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
+As a physicist turned modeling and simulation engineer, I thrive at the intersection of theoretical science and practical engineering applications. My academic journey spans physics and an ongoing master's degree in statistics, reflecting my commitment to understanding both the fundamental laws of nature and the mathematical frameworks that describe them.
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Currently, I work as a modeling and simulation engineer, where I leverage my diverse programming knowledge to create robust simulations and analyze complex systems. This role allows me to combine my physics background with computational methods to solve real-world engineering challenges.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## Technical Expertise
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+My professional toolkit includes:
+* Deep understanding of physical systems and mathematical modeling, grounded in my physics education and engineering experience
+* Advanced statistical analysis and data science skills, continuously enhanced through my graduate studies in statistics
+* Proficiency in multiple programming languages, enabling me to choose the right tool for each specific challenge
+* Experience in technical documentation and storytelling, making complex concepts accessible to diverse audiences
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
 
-## Tech Stack
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sFDwss3/about.png" alt="about" border="0"></a>
+## Professional Interests
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+I'm particularly passionate about the convergence of data science and traditional scientific disciplines. My current focus includes:
+* Expanding my expertise in statistical modeling and data analysis techniques
+* Developing innovative approaches to simulation and modeling challenges
+* Creating comprehensive technical documentation that bridges the gap between complex systems and their users
 
-## Features
+## Academic Background
+* Master's Degree (in progress) - Statistics
+* Background in Physics
 
-Here are certain features of this site.
+## Philosophy
+I believe in the power of interdisciplinary approaches, combining rigorous scientific methodology with modern data science techniques. My enthusiasm for discussing science, philosophy, ethics, and mathematics reflects my holistic approach to problem-solving and continuous learning.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+When not working on technical projects, you'll likely find me engaged in deep discussions about scientific theories, exploring new statistical methods, or documenting insights to share with the broader technical community.
+Or you can better write me an [email](mailto:statnormaldev@gmail.com).
