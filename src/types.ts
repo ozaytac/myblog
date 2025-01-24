@@ -7,7 +7,7 @@ export type Site = {
   desc: string;
   title: string;
   ogImage?: string;
-  lightAndDarkMode: boolean;
+  lightAndDarkMode: boolean | "auto";
   postPerIndex: number;
   postPerPage: number;
   scheduledPostMargin: number;

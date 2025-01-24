@@ -7,7 +7,7 @@ export const SITE: Site = {
   desc: "All about data, statistics, and machine learning",
   title: "Cosmos in Data",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: true,
+  lightAndDarkMode: "auto",
   postPerIndex: 6,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
