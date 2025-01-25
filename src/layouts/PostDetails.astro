@@ -310,4 +310,30 @@ const nextPost =
   document.addEventListener("astro:after-swap", () =>
     window.scrollTo({ left: 0, top: 0, behavior: "instant" })
   );
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: `${title}`,
+    image: `${ogUrl}`,
+    datePublished: `${pubDatetime?.toISOString()}`,
+    dateModified: `${modDatetime?.toISOString()}`,
+    keywords: tags?.join(","),
+    wordCount: post.body.split(/\s+/g).length,
+    author: [
+      {
+        "@type": "Person",
+        name: `${author}`,
+        url: `${profile}`,
+      },
+    ],
+    publisher: {
+      "@type": "Organization",
+      name: SITE.title,
+      logo: {
+        "@type": "ImageObject",
+        url: `${new URL("/favicon.svg", Astro.url)}`
+      }
+    }
+  };
 </script>

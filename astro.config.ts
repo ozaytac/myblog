@@ -18,6 +18,9 @@ export default defineConfig({
     }),
     react(),
     sitemap({
+      changefreq: 'weekly',
+      priority: 0.7,
+      lastmod: new Date(),
       filter: page => SITE.showArchives || !page.endsWith("/archives"),
     }),
   ],

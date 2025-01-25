@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mozaytac.com/sitemap-index.xml 
