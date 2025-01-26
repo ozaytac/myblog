@@ -1,4 +1,4 @@
----
+# ---
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
@@ -19,13 +19,13 @@ My professional toolkit includes:
 ## Professional Interests
 
 I'm particularly passionate about the convergence of data science and traditional scientific disciplines. My current focus includes:
-* Expanding my expertise in statistical modeling and data analysis techniques
+* Expanding my expertise in “Learning” and “Reasoning” concepts.
 * Developing innovative approaches to simulation and modeling challenges
 * Creating comprehensive technical documentation that bridges the gap between complex systems and their users
 
 ## Academic Background
-* Master's Degree (in progress) - Statistics
-* Background in Physics
+* MSc- Statistics
+* BSc - Physics
 
 ## Philosophy
 I believe in the power of interdisciplinary approaches, combining rigorous scientific methodology with modern data science techniques. My enthusiasm for discussing science, philosophy, ethics, and mathematics reflects my holistic approach to problem-solving and continuous learning.
