@@ -1,6 +1,6 @@
 ---
 author: Mustafa Ozaytac
-pubDatetime: 2024-03-19T11:11:53Z
+pubDatetime: 2025-01-25:11:53Z
 title: Understanding Classification Loss Functions in Machine Learning
 slug: loss-function
 featured: false
