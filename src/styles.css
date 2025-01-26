@@ -1,0 +1,14 @@
+/* Global styles for the logo */
+.logo {
+    max-width: 100%; /* Ensure the logo doesn't exceed the container width */
+    height: auto;    /* Maintain aspect ratio */
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    .logo {
+        width: 80%; /* Adjust the width for mobile */
+        margin: 0 auto; /* Center the logo */
+        display: block; /* Ensure it behaves as a block element */
+    }
+} 
